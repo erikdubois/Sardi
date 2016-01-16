@@ -91,7 +91,14 @@ It is a personal learning project :
 
 # The latest developments are mentioned first.
 
+# Sardi Flat Majestic
 
+![Screenshots](http://i.imgur.com/el3iY2W.jpg)
+
+# Sardi Flat Orange
+
+
+![Screenshots](http://i.imgur.com/aNlg4sX.jpg)
 
 # Sardi Mono Numix Gray
 
