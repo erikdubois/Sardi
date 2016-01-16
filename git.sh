@@ -7,7 +7,6 @@
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
-./gtk_update_icons.sh
 
 # date to date.txt
 curtime=$(date)
