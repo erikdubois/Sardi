@@ -44,7 +44,7 @@ It is a personal learning project :
 
 # 	E X A M P L E S
 
-![Screenshots](http://i.imgur.com/P986tmz.jpg)
+![Screenshots](http://i.imgur.com/el3iY2W.jpg)
 
 
 ![Screenshots](http://i.imgur.com/aNlg4sX.jpg)
