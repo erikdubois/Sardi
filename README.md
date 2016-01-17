@@ -120,8 +120,7 @@ It is a personal learning project :
 
 # Sardi Ghost
 
-Working on an Icon set i.e. 'Ghost Flat' from gnome-look.org, I added all the links, folders and apps that were missing to be
-able to work on a linux mint cinnamon 17.2. Sardi icon set will be used for the missing icons.
+Working on an Icon set i.e. 'Ghost Flat' from gnome-look.org, I added all the links, folders and apps that were missing to be able to work on a linux mint cinnamon 17.2. Sardi icon set will be used for the missing icons.
 
 ![Screenshots](http://i.imgur.com/4BtprUq.jpg)
 
@@ -343,10 +342,9 @@ hardcoding the path in the desktop file - READ ON HOW TO SOLVE THAT.</b>
 ![Screenshots](http://i.imgur.com/5clxmdg.jpg)
 
 
-This movie shows Sardi, Sardi Vertexed, Sardi Faenza Black and Sardi Mono.
-(Duration of the movie 2:43 minutes)
+This movie shows the latest icon sets of Sardi. 
 
-<a target="_blank" href="https://www.youtube.com/embed/rDshjPG_L6o">
+<a target="_blank" href="https://youtu.be/HKf6m-c4nWQ">
 <img style="max-width:100%;" src="http://i.imgur.com/0wAngkr.jpg">
 </a>
 
@@ -360,7 +358,7 @@ If any of the icons are missing this theme will use Numix and Numix Circle at
 
 https://github.com/numixproject/numix-icon-theme-circle.
 
-You should install it as fall-back theme. Follow the steps described there.
+You should install it as fall-back theme. It is a just in case scenario. Follow the steps described there.
 
 In the end you will have 4 icon themes 
 
@@ -378,7 +376,7 @@ In the end you will have 4 icon themes
 
 
 
-# Option 1 : Hardcode-fixer script
+# Hardcode-fixer script
 
 
 Some icons do not seem to change whatever theme of icons your are choosing. That is because the programmer is pointing the path of the "Icon" to one specific place.
@@ -407,17 +405,6 @@ The output will be all the icons that were hardcoded.
 June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. If you do find one, file it yourself at the above mentioned website.
 
 If you are interested as the how and why icons do what they do, check out the youtube.
-
-
-#Option 2 : Fix_icons script
-
-
-I used to have a script to change the path myself. This is no longer maintained since the hardcode-fixer script is taking care of that. I am keeping it for educational reasons. You can find it in the folder "old". In this script I also keep track of all the symbolic links I have added since working on this theme.
-
-Code lines like the one here, will be executed in the script : FIX_ICONSvx.sh  and will change all stubborn icons.
-
-	sudo sed -i 's/\/usr\/lib\/linuxmint\/mintUpdate\/icons\/base.svg/mintUpdate/g'
-	 /usr/share/applications/mintUpdate.desktop
 
 
 
