@@ -454,6 +454,10 @@ Content youtube movie
 
 # User Screenshots
 
+# Sardi Mono - Antergos Gnome
+
+![Screenshots](http://i.imgur.com/GAC0ofI.png)
+
 # Sardi Flat - Elementary Freya
 
 ![Screenshots](http://i.imgur.com/10TljSo.jpg)
