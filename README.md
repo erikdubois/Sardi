@@ -44,6 +44,9 @@ It is a personal learning project :
 
 # 	E X A M P L E S
 
+![Screenshots](http://i.imgur.com/TS5A1ko.png)
+
+
 ![Screenshots](http://i.imgur.com/el3iY2W.jpg)
 
 
@@ -91,6 +94,12 @@ It is a personal learning project :
 
 # The latest developments are mentioned first.
 
+
+# Sardi Mono Orange
+
+![Screenshots](http://i.imgur.com/TS5A1ko.png)
+
+
 # Sardi Flat Orange
 
 ![Screenshots](http://i.imgur.com/el3iY2W.jpg)
@@ -100,10 +109,10 @@ It is a personal learning project :
 
 ![Screenshots](http://i.imgur.com/aNlg4sX.jpg)
 
+
 # Sardi Mono Numix Gray
 
 ![Screenshots](http://i.imgur.com/FOm8gfH.png)
-
 
 
 # Sardi Mono Mint-X-Gray
@@ -111,11 +120,9 @@ It is a personal learning project :
 ![Screenshots](http://i.imgur.com/RwszxLG.png)
 
 
-
 # Sardi Mono Numix
 
 ![Screenshots](http://i.imgur.com/k0RXBnB.png)
-
 
 
 # Sardi Ghost
