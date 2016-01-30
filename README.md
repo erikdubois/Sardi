@@ -44,6 +44,9 @@ It is a personal learning project :
 
 # 	E X A M P L E S
 
+![Screenshots](http://i.imgur.com/YUiY5bO.jpg)
+
+
 ![Screenshots](http://i.imgur.com/TS5A1ko.png)
 
 
@@ -93,6 +96,14 @@ It is a personal learning project :
 
 
 # The latest developments are mentioned first.
+
+#Sardi Flexible
+
+Sardi Flexible is a monochrome icon theme were you get to choose the background color.
+There will be always a white outercircle and a white icon.
+Via two scripts you can change the color to your liking. You have 16.5 million color choices.
+
+![Screenshots](http://i.imgur.com/YUiY5bO.jpg)
 
 
 # Sardi Mono Orange
