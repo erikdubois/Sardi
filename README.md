@@ -103,7 +103,22 @@ Sardi Flexible is a monochrome icon theme were you get to choose the background 
 There will be always a white outercircle and a white icon.
 Via two scripts you can change the color to your liking. You have 16.5 million color choices.
 
+Starting colour
+
 ![Screenshots](http://i.imgur.com/YUiY5bO.jpg)
+
+but you can make it crimson
+
+![Screenshots](http://i.imgur.com/ygs7oAr.jpg)
+
+or supernova
+
+![Screenshots](http://i.imgur.com/ZPp3VEM.jpg)
+
+or any color you like.
+
+
+![Screenshots](http://i.imgur.com/Pf0rF7f.jpg)
 
 
 # Sardi Mono Orange
