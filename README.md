@@ -99,7 +99,7 @@ It is a personal learning project :
 
 #Sardi Flexible
 
-Sardi Flexible is a monochrome icon theme were you get to choose the background color.
+Sardi Flexible is a monochrome icon theme where you get to choose the background color.
 There will be always a white outercircle and a white icon.
 Via two scripts you can change the color to your liking. You have 16.5 million color choices.
 
