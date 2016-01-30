@@ -118,7 +118,7 @@ or supernova
 or any color you like.
 
 
-![Screenshots](http://i.imgur.com/Pf0rF7f.jpg)
+![Screenshots](http://i.imgur.com/DGV11zE.jpg)
 
 
 # Sardi Mono Orange
