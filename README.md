@@ -30,9 +30,9 @@ More pictures to the bottom
 
 
 
-# Linux mint 17.3 and the Sardi icons
+# Linux mint and the Sardi icons
 
-All of the flavours look great in Linux Mint 17.3. 
+All of the flavours look great in Linux Mint. 
 
 Check out how it looks on your system.
 
@@ -582,8 +582,20 @@ Open a terminal there and paste this code in the terminal
 
 
 
+# Sardi Icons and Ubuntu Mate on a Raspberry Pi 2
 
 
+![Screenshots](http://i.imgur.com/C66WYPY.png)
+
+![Screenshots](http://i.imgur.com/BsDTU1v.png)
+
+![Screenshots](http://i.imgur.com/sWGVfN9.png)
+
+![Screenshots](http://i.imgur.com/cGHioGV.png)
+
+![Screenshots](http://i.imgur.com/7M37kZA.png)
+
+![Screenshots](http://i.imgur.com/5WtM2gv.png)
 
 ---------------------------------------------
 # Credits
