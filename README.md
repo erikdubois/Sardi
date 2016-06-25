@@ -8,6 +8,28 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # https://sourceforge.net/projects/sardi/
 
 
+
+----------------------------------------------------------------
+
+# Latest news
+
+
+# Linux Mint 18
+
+Icons are ready for the new version.
+
+# Raspberry Pi 2
+
+Ubuntu Mate and Raspberry icons have been created or fixed.
+
+![Screenshots](http://i.imgur.com/C66WYPY.png)
+
+More pictures to the bottom
+
+----------------------------------------------------------------
+
+
+
 # Linux mint 17.3 and the Sardi icons
 
 All of the flavours look great in Linux Mint 17.3. 
@@ -333,7 +355,9 @@ Developed until now ordered alfabetically:
 
 # Installation
 
-Copy/paste the content of Sardi Master folder in the hidden folder .icons 
+Copy/paste the content of Sardi Master folder in the hidden folder .icons.
+CTR+H makes the hidden folders visible in your home folder.
+If you do not have a .icons folder yet, make one.
 
 	
 or
