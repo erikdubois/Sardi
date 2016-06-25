@@ -9,24 +9,24 @@ Version 4.0+ will be hosted at Sourceforge.net.
 
 
 
-----------------------------------------------------------------
+
 
 # Latest news
 
 
-# Linux Mint 18
+	# Linux Mint 18
 
-Icons are ready for the new version.
+	Icons are ready for the new version.
 
-# Raspberry Pi 2
+	# Raspberry Pi 2
 
-Ubuntu Mate and Raspberry icons have been created or fixed.
+	Ubuntu Mate and Raspberry icons have been created or fixed.
 
-![Screenshots](http://i.imgur.com/C66WYPY.png)
+	![Screenshots](http://i.imgur.com/C66WYPY.png)
 
-More pictures to the bottom
+	More pictures to the bottom
 
-----------------------------------------------------------------
+
 
 
 
