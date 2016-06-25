@@ -20,9 +20,16 @@ Icons are ready for the new version.
 
 # Raspberry Pi 2
 
-Ubuntu Mate and Raspberry icons have been created or fixed.
+Ubuntu Mate and Raspbian icons have been created or fixed.
 
 ![Screenshots](http://i.imgur.com/C66WYPY.png)
+
+
+![Screenshots](http://i.imgur.com/CedNudJ.png)
+
+
+![Screenshots](http://i.imgur.com/PV3XuP4.png)
+
 
 More pictures to the bottom
 
@@ -587,15 +594,30 @@ Open a terminal there and paste this code in the terminal
 
 ![Screenshots](http://i.imgur.com/C66WYPY.png)
 
+
 ![Screenshots](http://i.imgur.com/BsDTU1v.png)
+
 
 ![Screenshots](http://i.imgur.com/sWGVfN9.png)
 
+
 ![Screenshots](http://i.imgur.com/cGHioGV.png)
+
 
 ![Screenshots](http://i.imgur.com/7M37kZA.png)
 
+
 ![Screenshots](http://i.imgur.com/5WtM2gv.png)
+
+
+
+# Sardi icons and Raspbian on a Raspberry Pi 2
+
+
+![Screenshots](http://i.imgur.com/CedNudJ.png)
+
+
+![Screenshots](http://i.imgur.com/PV3XuP4.png)
 
 ---------------------------------------------
 # Credits
