@@ -151,25 +151,17 @@ or any color you like.
 ![Screenshots](http://i.imgur.com/k0RXBnB.png)
 
 
-# Sardi Ghost
+# Sardi Ghost Flexible
 
-Working on an Icon set i.e. 'Ghost Flat' from gnome-look.org, I added all the links, folders and apps that were missing to be able to work on a linux mint cinnamon 17.2. Sardi icon set will be used for the missing icons.
+You can change all these white icons to the colour of your liking via a script.
 
 ![Screenshots](http://i.imgur.com/4BtprUq.jpg)
 
 If you rather like all the white icons to be black (or any other colour), this can be partially achieved by these commands
 
-	find -name "*.svg" -exec sed -i '/path/s/use id="1" style="fill:#FFF"/use id="1" style="fill:#000000"/g' {}  \;
-	find -name "*.svg" -exec sed -i 's/fill:#ffffff/fill:#000000/g' {}  \;
-	find -name "*.svg" -exec sed -i 's/fill:#fff/fill:#000000/g' {}  \;
-
-Some of the icons will have to be changed manually.
-
-Result :
-
-![Screenshots](http://i.imgur.com/1ewEM4q.jpg)
-
-This icon set is not included. You should make it yourself on basis of Sardi Ghost.
+	#folder actions
+	find scalable/actions -name "*.svg" -type f -exec sed -i '/fill="#fffffe"/!s/fill="#'$oldcolour'"/fill="#'$newcolour'"/g' {}  \;
+	find scalable/actions -name "*.svg" -type f -exec sed -i '/fill:#fffffe/!s/fill:#'$oldcolour'/fill:#'$newcolour'/g' {}  \;
 
 
 
