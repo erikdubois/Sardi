@@ -73,6 +73,9 @@ It is a personal learning project :
 
 # 	E X A M P L E S
 
+![Screenshots](http://i.imgur.com/d6oaY6c.png)
+
+
 ![Screenshots](http://i.imgur.com/YUiY5bO.jpg)
 
 
@@ -126,7 +129,17 @@ It is a personal learning project :
 
 # The latest developments are mentioned first.
 
-#Sardi Flexible
+# Sardi Mono Grey
+
+Based on Sardi Mono orange made this new monochrome look. All action icons have been grayscaled too.
+
+The scripts I have used to change colours and to make the icons monochrome are included in the download for future developers.
+
+
+![Screenshots](http://i.imgur.com/kPCBmsK.png)
+
+
+# Sardi Flexible
 
 Sardi Flexible is a monochrome icon theme where you get to choose the background color.
 There will be always a white outercircle and a white icon.
