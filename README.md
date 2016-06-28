@@ -13,6 +13,10 @@ Version 4.0+ will be hosted at Sourceforge.net.
 
 # Latest news
 
+# Sardi Mono Grey
+
+New icon set added
+
 
 # Linux Mint 18
 
