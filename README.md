@@ -13,6 +13,27 @@ Version 4.0+ will be hosted at Sourceforge.net.
 
 # Latest news
 
+# start-here-symbolic
+
+All distro's have a way to change the icons where you actually start your menu or applications list.
+
+There are 17+ icons to start your distro. 
+
+In the folder places of the major subsets (sardi, sardi flat, sardi flexible, sardi ghost flexible and sardi mono) there are a number of start-here-symbolic icons. 
+
+Rename the one you like to 'start-here-symbolic.svg' (without the number).
+
+Delete the icon-theme.cache in the subset you have choosen e.g. sardi or you will see nothing.
+
+Change the theme once more to see the effect.
+
+
+Other distro's you can point to the picture that is shown in the menu. They do not need to change the name or delete the icon-theme.cache.
+
+
+![Screenshots](http://i.imgur.com/goIdR1G.png)
+
+
 # Sardi Mono Grey
 
 New icon set added
