@@ -7,12 +7,16 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # Download from 
 # https://sourceforge.net/projects/sardi/
 
+News will be updated here.
+Questions can be posted here.
+Bugs can be reported here.
+Need more details on the changes, check the log.txt in the folder Sardi.
+
 
 <hr>
-<hr>
-
-
 # Latest news
+<hr>
+
 
 # 2016 07 24 start-here-symbolic
 
@@ -34,7 +38,51 @@ Other distro's you can point to the picture that is shown in the menu. They do n
 
 ![Screenshots](http://i.imgur.com/goIdR1G.png)
 
+# 2016 07 10 Sardi icon set has been updated to work on any of these distro's
 
+	- Archlinux and all its supported desktop environments
+		- Budgie
+		- Cinnamon
+		- Deepin
+		- Enlightenment
+		- Gnome
+		- Gnome Flashback
+		- Sorry NO KDE as of yet
+		- LXDE
+		- LXQt
+		- Mate
+		- Xfce
+	- Centos
+	- Debian
+	- Elementary
+	- Fedora
+	- Linuxmint
+		- Cinnamon
+		- Mate
+		- XFCE
+		- Debian
+	- Mageia
+	- Manjaro
+		- Bspwm
+		- Budgie
+		- Cinnamon
+		- Deepin
+		- E20
+		- Gnome
+		- I3
+		- Jwm
+		- Lxqt
+		- Mate
+		- Xfce
+	- Opensuse Gnome
+	- Peppermint
+	- Solus
+	- Ubuntu
+		- Ubuntu
+		- Ubuntu Mate
+
+Several icons have been created to get an icon theme that is not broken. All icons should be sardi's now.
+Report if changes occurr over time.
 
 
 # 2016 06 28 Sardi Mono Grey
@@ -67,6 +115,9 @@ Ubuntu Mate and Raspbian icons have been created or fixed.
 More pictures to the bottom
 
 
+<hr>
+# End of Latest news
+<hr>
 
 
 
