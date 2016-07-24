@@ -206,7 +206,7 @@ Some of the themes inherit from each other so install the <b>complete</b> conten
 
 If any of the icons are missing this theme will use Numix and Numix Circle.
 
-You should install it as a fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
+You should install it as a fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here. It is such a nice icon theme you should have it anyway.
 
 
 https://github.com/numixproject/numix-icon-theme-circle
