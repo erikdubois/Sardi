@@ -8,10 +8,6 @@
 #======================================================================================
 
 
-# date to date.txt
-curtime=$(date)
-echo "version from "$curtime > date.txt
-
 
 # Below command will backup everything inside the project folder
 git add . 
