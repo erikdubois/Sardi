@@ -13,7 +13,7 @@
 git add . 
 # Committing to the local repository with a message containing the time details
 
-git commit -m "Automatic Backup @ $curtime"
+git commit -m "Get Sardi at Sourceforge"
 
 # Push the local snapshot to a remote destination
 git push -u origin master
