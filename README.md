@@ -8,12 +8,13 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # https://sourceforge.net/projects/sardi/
 
 
-
+<br>
+<br>
 
 
 # Latest news
 
-# start-here-symbolic
+# 2016 07 24 start-here-symbolic
 
 All distro's have a way to change the icons where you actually start your menu or applications list.
 
@@ -34,16 +35,23 @@ Other distro's you can point to the picture that is shown in the menu. They do n
 ![Screenshots](http://i.imgur.com/goIdR1G.png)
 
 
-# Sardi Mono Grey
+
+
+# 2016 06 28 Sardi Mono Grey
 
 New icon set added
 
+![Screenshots](http://i.imgur.com/NWRPNIH.png)
 
-# Linux Mint 18
+
+
+# 2016 06 28 Linux Mint 18
 
 Icons are ready for the new version.
 
-# Raspberry Pi 2
+
+
+# 2016 06 25 Raspberry Pi 2
 
 Ubuntu Mate and Raspbian icons have been created or fixed.
 
