@@ -182,7 +182,7 @@ https://sourceforge.net/projects/sardi/files/?source=directory
 
 Extract this tar.gz file with fileroller, engrampa or any other package.
 
-Make sure that you have an hidden folder .icon in your home folder by pressing CTRL + H.
+Make sure that you have an hidden folder .icons in your home folder by pressing CTRL + H.
 
 If you do not have a .icons folder yet, make one.
 
