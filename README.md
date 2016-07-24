@@ -202,7 +202,7 @@ READ ON HOW TO SOLVE THAT.</b>
 
 # This theme inherits from ...
 
-Some of the themes inherit from each other so install the complete content of the Sardi Master file.
+Some of the themes inherit from each other so install the <b>complete</b> content of the Sardi Master file.
 
 If any of the icons are missing this theme will use Numix and Numix Circle at 
 
