@@ -7,6 +7,8 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # Download from 
 # https://sourceforge.net/projects/sardi/
 
+
+ <a href="http://www.w3schools.com/" target="_blank">Visit W3Schools!</a> 
 News will be updated here.
 
 Questions can be posted here.
