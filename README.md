@@ -191,7 +191,9 @@ Copy/paste the <b>whole</b> content of Sardi folder in the hidden folder .icons.
 Select with the tool of your distro the icon set.
 
 <b>Some of the icons do not change on your distro because your linux distribution is
-hardcoding the path in the desktop file - READ ON HOW TO SOLVE THAT.</b>
+hardcoding the path in the desktop file 
+
+READ ON HOW TO SOLVE THAT.</b>
 
 
 ![Screenshots](http://i.imgur.com/5clxmdg.jpg)
