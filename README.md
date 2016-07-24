@@ -202,13 +202,11 @@ READ ON HOW TO SOLVE THAT.</b>
 
 # This theme inherits from ...
 
-Some of the themes inherit from each other so install the <b>complete</b> content of the Sardi Master file.
+Some of the themes inherit from each other so install the <b>complete</b> content of the Sardi tar.gz file.
 
-If any of the icons are missing this theme will use Numix and Numix Circle at 
+If any of the icons are missing this theme will use Numix and Numix Circle.
 
-https://github.com/numixproject/numix-icon-theme-circle.
-
-You should install it as fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
+You should install it as a fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
 
 
 https://github.com/numixproject/numix-icon-theme-circle
