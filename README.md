@@ -15,6 +15,9 @@ Bugs can be reported here.
 
 Need more details on the changes, check the log.txt in the folder Sardi.
 
+Need to get into contact : 
+
+https://plus.google.com/u/0/+ErikDubois
 
 <hr>
 # Latest news
