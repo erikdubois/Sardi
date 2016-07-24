@@ -123,16 +123,6 @@ More pictures to the bottom
 <hr>
 
 
-
-# Linux mint and the Sardi icons
-
-All of the flavours look great in Linux Mint. 
-
-Check out how it looks on your system.
-
-Documentation to be found at http://erikdubois.be
-
-
 # What is Sardi
 
 Sardi is based on Ardis Icon Theme from Kotus Works. You can say it is a fork but it has grown
@@ -157,8 +147,17 @@ It is a personal learning project :
 	- how to use inkscape to make the icons (512px)
 
 
+# Documentation
 
-# 	E X A M P L E S
+Documentation to be found at http://erikdubois.be
+
+Look for info in category Linux/Sardi.
+
+
+http://erikdubois.be/category/linux/sardi-icons/
+
+
+# 	Examples of Sardi icons
 
 ![Screenshots](http://i.imgur.com/d6oaY6c.png)
 
