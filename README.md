@@ -186,7 +186,7 @@ Make sure that you have an hidden folder .icons in your home folder by pressing 
 
 If you do not have a .icons folder yet, make one.
 
-Copy/paste the <b>whole</b>content of Sardi folder in the hidden folder .icons.
+Copy/paste the <b>whole</b> content of Sardi folder in the hidden folder .icons.
 
 Select with the tool of your distro the icon set.
 
