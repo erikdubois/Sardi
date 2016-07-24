@@ -421,72 +421,33 @@ Sardi Red has been made in the exact same manner as Sardi Orange. Read Sardi Ora
 
 # Own creations
 
-Starting of June 2015 I started developing some of the missing icons : 
+Starting of June 2015 I started developing some of the missing icons on distro's.
 
-22 icons until now
+Each icon has to be created and five subsets of it.
 
-Developed until now ordered alfabetically: 
+	- Sardi
+	- Sardi Flat
+	- Sardi Flexible
+	- Sardi Ghost Flexible
+	- Sardi Mono
 
-	- darktable (extra colorfull)
-	- dreamchess
-	- emesene
-	- freemind
-	- furious iso mount
-	- go-home
-	- grub-customizer
-	- imagemagick
-	- kazam
-	- luckybackup
-	- mintupdate
-	- mintnanny
-	- mintupload
-	- nitrogen
-	- openoffice4 startcenter
-	- pypar
-	- screenruler
-	- spotlite
-	- subdownloader
-	- system-software-installer
-	- utorrent
-	- vuze
+Each of these subsets will receive a new icon.
 
 
 
-<h2><b>extra icons for Ardis icon theme</b></h2>
+# Installation of Sardi
 
-<a target="_blank" href="http://i.imgur.com/MhSxgpb.png">
-<img style="max-width:100%;" src="http://i.imgur.com/MhSxgpb.png">
-</a>
+Get the very latest Sardi icons from Sourceforge.
 
+https://sourceforge.net/projects/sardi/files/?source=directory
 
-# Installation
+Extract this tar.gz file with fileroller, engrampa or any other package.
 
-Copy/paste the content of Sardi Master folder in the hidden folder .icons.
-CTR+H makes the hidden folders visible in your home folder.
+Make sure that you have an hidden folder .icon in your home folder by pressing CTRL + H.
+
 If you do not have a .icons folder yet, make one.
 
-	
-or
-
-
-via command line
-
-	sudo apt-get install git
-	git clone https://github.com/erikdubois/Sardi.git
-
-
-Just trying it out and meaning to edit some of the icons (Recommended)
-
-	
-	cp -r Sardi/Sardi/ ~/.icons/
-	cp -r Sardi/Sardi\ Vertexed ~/.icons/
-	...
-
-If you never intend to change or edit it. This is the place to be.
-
-	sudo cp -r Sardi/Sardi/ /usr/share/icons/
-	sudo cp -r Sardi/Sardi\ Vertexed /usr/share/icons/
-	...
+Copy/paste the <b>whole</b>content of Sardi folder in the hidden folder .icons.
 
 Select with the tool of your distro the icon set.
 
@@ -495,13 +456,6 @@ hardcoding the path in the desktop file - READ ON HOW TO SOLVE THAT.</b>
 
 
 ![Screenshots](http://i.imgur.com/5clxmdg.jpg)
-
-
-This movie shows the latest icon sets of Sardi. 
-
-<a target="_blank" href="https://youtu.be/HKf6m-c4nWQ">
-<img style="max-width:100%;" src="http://i.imgur.com/0wAngkr.jpg">
-</a>
 
 
 
@@ -513,7 +467,11 @@ If any of the icons are missing this theme will use Numix and Numix Circle at
 
 https://github.com/numixproject/numix-icon-theme-circle.
 
-You should install it as fall-back theme. It is a just in case scenario. Follow the steps described there.
+You should install it as fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
+
+
+https://github.com/numixproject/numix-icon-theme-circle
+
 
 In the end you will have 4 icon themes 
 
@@ -536,7 +494,7 @@ In the end you will have 4 icon themes
 
 Some icons do not seem to change whatever theme of icons your are choosing. That is because the programmer is pointing the path of the "Icon" to one specific place.
 
-	For example : Linux Mint Update
+	For example : Linux Mint Update used to be 
 	/usr/lib/linuxmint/mintUpdate/icons/base.svg
 
 Working together with Joshua Fogg is the best way to proceed to get all references to icons like they should be in the first place.
@@ -558,8 +516,6 @@ Run it with
 The output will be all the icons that were hardcoded.
 
 June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. If you do find one, file it yourself at the above mentioned website.
-
-If you are interested as the how and why icons do what they do, check out the youtube.
 
 
 
