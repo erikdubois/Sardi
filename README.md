@@ -8,8 +8,8 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # https://sourceforge.net/projects/sardi/
 
 
-<br>
-<br>
+<hr>
+<hr>
 
 
 # Latest news
