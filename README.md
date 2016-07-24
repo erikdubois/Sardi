@@ -8,8 +8,11 @@ Version 4.0+ will be hosted at Sourceforge.net.
 # https://sourceforge.net/projects/sardi/
 
 News will be updated here.
+
 Questions can be posted here.
+
 Bugs can be reported here.
+
 Need more details on the changes, check the log.txt in the folder Sardi.
 
 
