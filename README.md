@@ -157,6 +157,117 @@ Look for info in category Linux/Sardi.
 http://erikdubois.be/category/linux/sardi-icons/
 
 
+
+# Own creations
+
+Starting of June 2015 I started developing some of the missing icons on distro's.
+
+Each icon has to be created and five subsets of it.
+
+	- Sardi
+	- Sardi Flat
+	- Sardi Flexible
+	- Sardi Ghost Flexible
+	- Sardi Mono
+
+Each of these subsets will receive a new icon.
+
+
+
+# Installation of Sardi
+
+Get the very latest Sardi icons from Sourceforge.
+
+https://sourceforge.net/projects/sardi/files/?source=directory
+
+Extract this tar.gz file with fileroller, engrampa or any other package.
+
+Make sure that you have an hidden folder .icon in your home folder by pressing CTRL + H.
+
+If you do not have a .icons folder yet, make one.
+
+Copy/paste the <b>whole</b>content of Sardi folder in the hidden folder .icons.
+
+Select with the tool of your distro the icon set.
+
+<b>Some of the icons do not change on your distro because your linux distribution is
+hardcoding the path in the desktop file - READ ON HOW TO SOLVE THAT.</b>
+
+
+![Screenshots](http://i.imgur.com/5clxmdg.jpg)
+
+
+
+# This theme inherits from ...
+
+Some of the themes inherit from each other so install the complete content of the Sardi Master file.
+
+If any of the icons are missing this theme will use Numix and Numix Circle at 
+
+https://github.com/numixproject/numix-icon-theme-circle.
+
+You should install it as fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
+
+
+https://github.com/numixproject/numix-icon-theme-circle
+
+
+In the end you will have 4 icon themes 
+
+- numix
+- numix-light
+- numix-circle
+- numix-circle-light
+
+
+
+
+
+
+# HOW TO FIX HARDCODED ICONS
+
+
+
+# Hardcode-fixer script
+
+
+Some icons do not seem to change whatever theme of icons your are choosing. That is because the programmer is pointing the path of the "Icon" to one specific place.
+
+	For example : Linux Mint Update used to be 
+	/usr/lib/linuxmint/mintUpdate/icons/base.svg
+
+Working together with Joshua Fogg is the best way to proceed to get all references to icons like they should be in the first place.
+
+You can find his hardcode-fixer script at 
+
+https://github.com/Foggalong/hardcode-fixer
+
+Read what it does on his website.
+
+The script will get the latest csv file from the net, so you need to have 'curl' installed. 
+
+	sudo apt-get install curl
+
+Run it with
+
+	sudo ./fix.sh
+
+The output will be all the icons that were hardcoded.
+
+June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. If you do find one, file it yourself at the above mentioned website.
+
+
+
+# T I P 
+
+If for some reason you want to revert back to the situation before you ran the hardcode-fixer you can do so.
+
+	sudo ./fix.sh -r
+
+
+
+
+
 # 	Examples of Sardi icons
 
 ![Screenshots](http://i.imgur.com/d6oaY6c.png)
@@ -416,114 +527,6 @@ Sardi Red has been made in the exact same manner as Sardi Orange. Read Sardi Ora
 	find -name "*.svg" -exec sed -i 's/6997c7/aa1111/g' {}  \;
 
 ![Screenshots](http://i.imgur.com/qBHK9FT.png)
-
-
-
-# Own creations
-
-Starting of June 2015 I started developing some of the missing icons on distro's.
-
-Each icon has to be created and five subsets of it.
-
-	- Sardi
-	- Sardi Flat
-	- Sardi Flexible
-	- Sardi Ghost Flexible
-	- Sardi Mono
-
-Each of these subsets will receive a new icon.
-
-
-
-# Installation of Sardi
-
-Get the very latest Sardi icons from Sourceforge.
-
-https://sourceforge.net/projects/sardi/files/?source=directory
-
-Extract this tar.gz file with fileroller, engrampa or any other package.
-
-Make sure that you have an hidden folder .icon in your home folder by pressing CTRL + H.
-
-If you do not have a .icons folder yet, make one.
-
-Copy/paste the <b>whole</b>content of Sardi folder in the hidden folder .icons.
-
-Select with the tool of your distro the icon set.
-
-<b>Some of the icons do not change on your distro because your linux distribution is
-hardcoding the path in the desktop file - READ ON HOW TO SOLVE THAT.</b>
-
-
-![Screenshots](http://i.imgur.com/5clxmdg.jpg)
-
-
-
-# This theme inherits from ...
-
-Some of the themes inherit from each other so install the complete content of the Sardi Master file.
-
-If any of the icons are missing this theme will use Numix and Numix Circle at 
-
-https://github.com/numixproject/numix-icon-theme-circle.
-
-You should install it as fall-back icon theme. It is a 'just in case' scenario. Follow the steps described here.
-
-
-https://github.com/numixproject/numix-icon-theme-circle
-
-
-In the end you will have 4 icon themes 
-
-- numix
-- numix-light
-- numix-circle
-- numix-circle-light
-
-
-
-
-
-
-# HOW TO FIX HARDCODED ICONS
-
-
-
-# Hardcode-fixer script
-
-
-Some icons do not seem to change whatever theme of icons your are choosing. That is because the programmer is pointing the path of the "Icon" to one specific place.
-
-	For example : Linux Mint Update used to be 
-	/usr/lib/linuxmint/mintUpdate/icons/base.svg
-
-Working together with Joshua Fogg is the best way to proceed to get all references to icons like they should be in the first place.
-
-You can find his hardcode-fixer script at 
-
-https://github.com/Foggalong/hardcode-fixer
-
-Read what it does on his website.
-
-The script will get the latest csv file from the net, so you need to have 'curl' installed. 
-
-	sudo apt-get install curl
-
-Run it with
-
-	sudo ./fix.sh
-
-The output will be all the icons that were hardcoded.
-
-June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. If you do find one, file it yourself at the above mentioned website.
-
-
-
-# T I P 
-
-If for some reason you want to revert back to the situation before you ran the hardcode-fixer you can do so.
-
-	sudo ./fix.sh -r
 
 
 
