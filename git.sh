@@ -14,8 +14,7 @@ echo "version from "$curtime > date.txt
 
 
 # Below command will backup everything inside the project folder
-git add . --ignore-removal
-
+git add . 
 # Committing to the local repository with a message containing the time details
 
 git commit -m "Automatic Backup @ $curtime"
