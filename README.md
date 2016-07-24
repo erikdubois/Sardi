@@ -20,7 +20,7 @@ Need to get into contact : https://plus.google.com/u/0/+ErikDubois
 
 Need even more screenshots or information.
 
-Follow the collection on google+.
+Follow the Sardi collection on google+.
 
 https://plus.google.com/u/0/collection/YFP-LB
 
