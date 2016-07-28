@@ -29,6 +29,34 @@ https://plus.google.com/u/0/collection/YFP-LB
 <hr>
 # Latest news
 <hr>
+# Make-over of Sardi as of version 7.1+
+
+I skipped logging in detail since it would have taken me more time to log than to actually change things but here is what I did.
+
+Changed the structure of the Sardi icons folders
+
+From scalable 
+
+to 
+
+16 22 24 32 48 64 128 and scalable.
+
+This will allow current and future problems to be solved.
+Icons that do not 'behave' properly can get an other icon at the desired width.
+This gives more flexibility to the end-user to pop in an icon they like.
+
+Choose to go for white icons in the toolbar : network and sound icons 
+
+Tried to minimize the MB by inheriting to one basic theme Sardi. A lot of work with only 5MB less out of 134 MB. 
+
+Checked to see if I was missing icons that the Numix icon team had created in the mean time in the various subsets of Sardi.
+
+During my testing I did not install Numix (used as inherit for Sardi) and checked that all icons were in Sardi in the various subsets.
+
+Changed the numix icons I did not like. Mostly making some of the icons white instead of blue and green. Goal was an uniform white look for the symbolic icons.
+
+Again the icon set was retested on the various operating systems.
+
 
 
 # 2016 07 24 start-here-symbolic
