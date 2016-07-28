@@ -33,6 +33,9 @@ https://plus.google.com/u/0/collection/YFP-LB
 
 I skipped logging in detail since it would have taken me more time to log than to actually change things but here is what I did.
 
+Made it obvious in the numbering that 6.2 and 7 version are completely different.
+
+
 Changed the structure of the Sardi icons folders
 
 From scalable 
@@ -57,7 +60,7 @@ Changed the numix icons I did not like. Mostly making some of the icons white in
 
 Again the icon set was retested on the various operating systems.
 
-
+Changed from tar.gz to zip because of the limitations of tar.gz. It seems I reached the maximum amount of items for tar.gz. This gives a higher amount in MB zipped but a lower amount in MB comparing it to version 6.2.6.
 
 # 2016 07 24 start-here-symbolic
 
