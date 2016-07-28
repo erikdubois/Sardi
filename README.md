@@ -60,7 +60,6 @@ Changed the numix icons I did not like. Mostly making some of the icons white in
 
 Again the icon set was retested on the various operating systems.
 
-Changed from tar.gz to zip because of the limitations of tar.gz. It seems I reached the maximum amount of items for tar.gz. This gives a higher amount in MB zipped but a lower amount in MB comparing it to version 6.2.6.
 
 # 2016 07 24 start-here-symbolic
 
