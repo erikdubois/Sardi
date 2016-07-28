@@ -29,7 +29,7 @@ https://plus.google.com/u/0/collection/YFP-LB
 <hr>
 # Latest news
 <hr>
-# Make-over of Sardi as of version 7.1+
+# 2016 07 28 Make-over of Sardi as of version 7.1+
 
 I skipped logging in detail since it would have taken me more time to log than to actually change things but here is what I did.
 
