@@ -51,13 +51,13 @@ https://sourceforge.net/projects/sardi/files/sardi-icons-7.1-2.tar.gz/download
 
 
 
-Sardi Flexible Arc
+# Sardi Flexible Arc
 
 ![Screenshots](http://i.imgur.com/8IaPzJ0.png)
 
 
 
-Sardi Mono Arc
+# Sardi Mono Arc
 
 ![Screenshots](http://i.imgur.com/7A82Vav.png)
 
