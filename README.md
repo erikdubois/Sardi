@@ -29,6 +29,53 @@ https://plus.google.com/u/0/collection/YFP-LB
 <hr>
 # Latest news
 <hr>
+
+# 2016 07 30 Sardi Mono Mint-X-Grey has been restyled
+
+
+![Screenshots](http://i.imgur.com/dZlYyge.png)
+
+
+# Sardi Faenza Black has been abandoned
+
+You can download it in this version.
+https://sourceforge.net/projects/sardi/files/sardi-icons-7.1-2.tar.gz/download
+
+# Sardi Flat Black has been abandoned.
+
+You can download it in this version.
+https://sourceforge.net/projects/sardi/files/sardi-icons-7.1-2.tar.gz/download
+
+
+# 2016 07 29 Creation of two new icon sets
+
+
+
+Sardi Flexible Arc
+
+![Screenshots](http://i.imgur.com/ZYiUX4Y.png)
+
+
+
+Sardi Mono Arc
+
+![Screenshots](http://i.imgur.com/7A82Vav.png)
+
+
+
+
+# Sardi Mono Vertexed has been restyled
+
+![Screenshots](http://i.imgur.com/ZYiUX4Y.png)
+
+
+
+# Sardi Vertexed has been restyled
+
+![Screenshots](http://i.imgur.com/iUcapOr.png)
+
+
+
 # 2016 07 28 Make-over of Sardi as of version 7.1+
 
 I skipped logging in detail since it would have taken me more time to log than to actually change things but here is what I did.
