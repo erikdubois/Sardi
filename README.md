@@ -30,6 +30,29 @@ https://plus.google.com/u/0/collection/YFP-LB
 # Latest news
 <hr>
 
+# 2016 08 13
+
+Content youtube movie
+
+1. Downloading & installing with git clone
+2. Hard code fixer
+3. Why are some icons not changing in a theme?
+4. What folder(s) can we use?
+5. Change the remaining icons that do NOT follow the theme
+6. Workflow explained
+
+
+<a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
+<img style="max-width:100%;" src="http://i.imgur.com/0wAngkr.jpg">
+</a>
+
+
+# 2016 08 12
+
+New icon set Sardi Arc has been added 
+
+
+
 # 2016 07 30 Sardi Mono Mint-X-Grey has been restyled
 
 
