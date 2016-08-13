@@ -54,8 +54,9 @@ Aureola conky : https://github.com/erikdubois/Aureola
 
 # 2016 08 12
 
-New icon set Sardi Arc has been added 
+New icon set Sardi Arc has been added - total of 18 icon sets with one download
 
+![Screenshots](http://i.imgur.com/MNcbdrv.png)
 
 
 # 2016 07 30 Sardi Mono Mint-X-Grey has been restyled
