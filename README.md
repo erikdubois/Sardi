@@ -32,18 +32,23 @@ https://plus.google.com/u/0/collection/YFP-LB
 
 # 2016 08 13
 
-Content youtube movie
+Content Playlist of 40+ short movies to make your desktop eye-candy
+Sardi icon set playing its part therein.
 
-1. Downloading & installing with git clone
-2. Hard code fixer
-3. Why are some icons not changing in a theme?
-4. What folder(s) can we use?
-5. Change the remaining icons that do NOT follow the theme
-6. Workflow explained
+About 40 short movies to completely change your desktop experience for linux.
+Updating, kernel installation, applications installation, variety settings, firefox and google search, lastpass and xmarks, sardi icon theme, fixing icons that never change, theme installation of vertex and arc, applets, dropbox, zsh, printer, aureola conky, super ultra flat numix remix icons, plank, personal settings of cinnamon, gimp scripts added, dropbox fix, keyboard fix for music, ...
+
+Customisation : https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon
+
+Sardi icons: https://sourceforge.net/projects/sardi/files/
+
+Super Ultra Flat Numix Remix : https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+
+Aureola conky : https://github.com/erikdubois/Aureola
 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
-<img style="max-width:100%;" src="http://i.imgur.com/0wAngkr.jpg">
+<img style="max-width:100%;" src="http://i.imgur.com/iKGrEC9.png">
 </a>
 
 
