@@ -794,6 +794,26 @@ Open a terminal there and paste this code in the terminal
 ![Screenshots](http://i.imgur.com/PV3XuP4.png)
 
 ---------------------------------------------
+
+
+#Reporting missing icons
+
+When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster:
+
+
+Add screenshots of the missing icon and the instances where it's displayed like: menus, taskbars, panels, notifications, etc.
+
+Add the relevant launcher information, software uses files with the extension .desktop as launchers for menus like Firefox, Mint menu, etc. and these launchers are stored in /usr/share/applications (there might be a /kde or /kde4 folder for KDE apps) for software installed through a package or the package manager. 
+
+User-installed binaries and Google Chrome apps install their launchers here: /home/$USER/.local/share/applications/. 
+
+Simply open these .desktop files with any text editor or sublime-text for the better coder; copy and paste the line that says Icon= to your issue.
+
+Add a description of the software.
+
+Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use Hardcoded Icon Fixer to resolve this problem as explained above.
+
+
 # Credits
 
 I love the numix circle theme. On any distribution it looks really nice.
