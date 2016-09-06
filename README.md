@@ -30,6 +30,20 @@ https://plus.google.com/u/0/collection/YFP-LB
 # Latest news
 <hr>
 
+# 2016 09 06
+
+New icon set has been added coming from the breeze icon theme from KDE/Plasma world.
+The collection counts now 19 icon sets.
+
+Sardi Dark Breeze
+
+![Screenshots](http://i.imgur.com/0xba3Oy.jpg)
+
+You can make many variations on this icon theme as you will see in this article.
+
+http://erikdubois.be/make-icon-theme-sardi-dark-breeze-possible-combination/
+
+
 # 2016 08 13
 
 Content Playlist of 40+ short movies to make your desktop eye-candy
@@ -50,6 +64,7 @@ Aureola conky : https://github.com/erikdubois/Aureola
 <a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
 <img style="max-width:100%;" src="http://i.imgur.com/iKGrEC9.png">
 </a>
+
 
 
 # 2016 08 12
@@ -386,6 +401,11 @@ If for some reason you want to revert back to the situation before you ran the h
 
 # 	Examples of Sardi icons
 
+
+
+![Screenshots](http://i.imgur.com/yTQT4vj.jpg)
+
+
 ![Screenshots](http://i.imgur.com/d6oaY6c.png)
 
 
@@ -441,6 +461,11 @@ If for some reason you want to revert back to the situation before you ran the h
 
 
 # The latest developments are mentioned first.
+
+Sardi Dark Breeze
+
+![Screenshots](http://i.imgur.com/0xba3Oy.jpg)
+
 
 # Sardi Mono Grey
 
@@ -512,6 +537,9 @@ You can change all these white icons to the colour of your liking via a script.
 
 ![Screenshots](http://i.imgur.com/4BtprUq.jpg)
 
+![Screenshots](http://i.imgur.com/bSJb1Io.jpg)
+
+
 If you rather like all the white icons to be black (or any other colour), this can be partially achieved by these commands
 
 	#folder actions
@@ -529,7 +557,7 @@ Sardi Icons have no longer a circular white border and shadows. This flattens th
 
 
 
-# Sardi Flat Black
+# Sardi Flat Black (has been replaced with Sardi Colora - script makes it black)
 
 This icons set has black folders. Rest of the icons are inherited from Sardi Flat.
 The following code was used to make the blue folders black in the map places.
@@ -556,7 +584,7 @@ You need to have Sardi installed as Sardi Vertexed only has information about pl
 
 
 
-# Sardi Faenza Black
+# Sardi Faenza Black (has been discontinued)
 
 
 The black folders from http://www.deviantart.com/art/Faenza-Black-244042717 were added to the icon theme.
@@ -596,7 +624,7 @@ All icons have been 'grayscaled' in colour.
 
 
 
-# Sardi Orange
+# Sardi Orange (has been replaced with Sardi Colora - script makes it orange)
 
 
 If you do not like the blue folders you can always change the colour via CLI.
@@ -625,7 +653,7 @@ Grey
 
 
 
-# Sardi Grey
+# Sardi Grey (has been replaced with Sardi Colora - script makes it grey)
 
 
 Sardi Grey has been made in the exact same manner as Sardi Orange. Read Sardi Orange.
@@ -634,8 +662,7 @@ Sardi Grey has been made in the exact same manner as Sardi Orange. Read Sardi Or
 
 
 
-# Sardi Red
-
+# Sardi Red (has been replaced with Sardi Colora - script makes it red)
 
 Sardi Red has been made in the exact same manner as Sardi Orange. Read Sardi Orange.
 
