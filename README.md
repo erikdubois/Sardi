@@ -59,7 +59,7 @@ or
 New icon set has been added coming from the breeze icon theme from KDE/Plasma world.
 The collection counts now 19 icon sets.
 
-Sardi Dark Breeze
+# Sardi Dark Breeze
 
 ![Screenshots](http://i.imgur.com/0xba3Oy.jpg)
 
