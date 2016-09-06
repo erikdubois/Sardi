@@ -488,7 +488,7 @@ If for some reason you want to revert back to the situation before you ran the h
 
 # The latest developments are mentioned first.
 
-Sardi Dark Breeze
+# Sardi Dark Breeze
 
 ![Screenshots](http://i.imgur.com/0xba3Oy.jpg)
 
