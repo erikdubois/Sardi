@@ -700,26 +700,6 @@ Sardi Red has been made in the exact same manner as Sardi Orange. Read Sardi Ora
 
 
 
-# Y O U T U B E
-
-
-
-Content youtube movie
-
-1. Downloading & installing with git clone
-2. Hard code fixer
-3. Why are some icons not changing in a theme?
-4. What folder(s) can we use?
-5. Change the remaining icons that do NOT follow the theme
-6. Workflow explained
-
-(Duration of the movie 17:28 minutes)
-
-<a target="_blank" href="https://youtu.be/bXxv1ocAcrM">
-<img style="max-width:100%;" src="http://i.imgur.com/0wAngkr.jpg">
-</a>
-
-
 
 
 # User Screenshots
