@@ -30,7 +30,27 @@ https://plus.google.com/u/0/collection/YFP-LB
 # Latest news
 <hr>
 
-# 2016 09 06
+#2016 09 06
+
+Content Playlist of 80+ short movies to make your desktop eye-candy
+Sardi icon set playing its part therein.
+
+I started a new kind of project named <b>Make it yourself icon theme</b>.
+
+You can check all those articles on this address.
+
+
+http://erikdubois.be/category/sardi-icons/
+
+or
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS4xeU9zECB-VXL8ZtlEOqrY">
+<img style="max-width:100%;" src="http://i.imgur.com/t9QTQR5.png">
+</a>
+
+
+
+# 2016 09 03
 
 New icon set has been added coming from the breeze icon theme from KDE/Plasma world.
 The collection counts now 19 icon sets.
@@ -42,6 +62,8 @@ Sardi Dark Breeze
 You can make many variations on this icon theme as you will see in this article.
 
 http://erikdubois.be/make-icon-theme-sardi-dark-breeze-possible-combination/
+
+
 
 
 # 2016 08 13
