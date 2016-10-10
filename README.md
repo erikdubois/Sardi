@@ -18,13 +18,15 @@ Check the changelog in the Sardi folder.
 
 ## Github will be used to : 
 
+	Request for new icons can be posted here. (scroll to bottom)
+
 	News will be updated here.
 
 	Questions can be posted here.
 
 	Bugs can be reported here.
 
-	Requetst for new icons can be posted here. (scroll to bottom)
+
 
 
 ## Need to get into contact with me
