@@ -431,9 +431,10 @@ Run it with
 
 	sudo ./fix.sh
 
-The output will be all the icons that were hardcoded.
+You will get an output of all the icons/applications that have been fixed.
 
-June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. If you do find one, file it yourself at the above mentioned website.
+June 2015 I filed all the hardcoded links of Linux Mint to that website and now all hardcoded links should be gone, IF YOU RUN THE SCRIPT. 
+If you do find an icon that will never change, file it yourself at https://github.com/Foggalong/hardcode-fixer.
 
 
 
