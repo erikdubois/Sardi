@@ -1,29 +1,49 @@
 # Sardi Icon Theme
 
-# DO NOT DOWNLOAD FROM GITHUB
+# Missing Icons & Request Icons
 
-Version 4.0+ will be hosted at Sourceforge.net.
+Scroll down to bottom 
 
-# Download from 
-# https://sourceforge.net/projects/sardi/
+# Looking to download the icons
 
+You can download the icons from Sourceforge. A bug in github prevents me to host them here.
+Too many icons.
 
-News will be updated here.
+https://sourceforge.net/projects/sardi/
 
-Questions can be posted here.
+# Want to know what changed between versions
 
-Bugs can be reported here.
-
-Need more details on the changes, check the changelog in the folder Sardi.
-
-Need to get into contact : https://plus.google.com/u/0/+ErikDubois
+Check the changelog in the Sardi folder.
 
 
-Need even more screenshots or information.
+# Github will be used to : 
+
+	News will be updated here.
+
+	Questions can be posted here.
+
+	Bugs can be reported here.
+
+	Requetst for new icons can be posted here. (scroll to bottom)
+
+
+# Need to get into contact with me
+
+	https://plus.google.com/u/0/+ErikDubois
+
+
+# Do you want more screenshots, information or tutorials
 
 Follow the Sardi collection on google+.
 
 https://plus.google.com/u/0/collection/YFP-LB
+
+Checkout articles and tutorials at http://www.erikdubois.be
+
+
+# Some of your icons will never change whatever Icon theme you choose
+
+Scroll down to HOW TO FIX HARDCODED ICONS
 
 
 <hr>
@@ -337,7 +357,7 @@ Get the very latest Sardi icons from Sourceforge.
 
 https://sourceforge.net/projects/sardi/files/?source=directory
 
-Extract this tar.gz file with fileroller, engrampa or any other package.
+Extract this tar.gz file with fileroller, engrampa or any other application.
 
 Make sure that you have an hidden folder .icons in your home folder by pressing CTRL + H.
 
@@ -829,22 +849,46 @@ Open a terminal there and paste this code in the terminal
 ---------------------------------------------
 
 
-#Reporting missing icons
+# Missing Icons & Request Icons
 
-When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster:
+When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster and efficiently:
 
+## Screenfetch
+
+Install screenfetch to give me information of your distro and Desktop Environment.
+
+	sudo apt install screenfetch
+
+Copy/paste the code you will receive 
+
+## Icon name 
+
+Add the relevant launcher information, applications use files with the extension .desktop as launchers like Firefox, Mint menu, etc. and these launchers are stored in 
+
+	/usr/share/applications (there might be a /kde or /kde4 folder for KDE apps)
+
+
+User-installed binaries and Google Chrome apps install their launchers here: 
+
+	/home/$USER/.local/share/applications
+
+Simply open these .desktop files with any text editor or sublime-text and copy and paste the line that says 
+
+	Icon=...
+
+to your issue or request.
+
+Add a description of the software and where to download it.
+
+
+
+## Screenshots
 
 Add screenshots of the missing icon and the instances where it's displayed like: menus, taskbars, panels, notifications, etc.
 
-Add the relevant launcher information, software uses files with the extension .desktop as launchers for menus like Firefox, Mint menu, etc. and these launchers are stored in /usr/share/applications (there might be a /kde or /kde4 folder for KDE apps) for software installed through a package or the package manager. 
 
-User-installed binaries and Google Chrome apps install their launchers here: /home/$USER/.local/share/applications/. 
 
-Simply open these .desktop files with any text editor or sublime-text for the better coder; copy and paste the line that says Icon= to your issue.
-
-Add a description of the software.
-
-Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use Hardcoded Icon Fixer to resolve this problem as explained above.
+REMARK : Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use Hardcoded Icon Fixer to resolve this problem as explained above.
 
 
 # Credits
