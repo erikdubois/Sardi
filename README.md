@@ -863,7 +863,7 @@ Install screenfetch to give me information of your distro and Desktop Environmen
 
 	sudo apt install screenfetch
 
-Copy/paste the code you will receive.
+Copy/paste the code you will receive or provide manually on what distro and desktop environment you are on and what version.
 
 ## Icon name 
 
