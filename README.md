@@ -887,6 +887,12 @@ to your issue or request.
 Add a description of the software and a link where to download it and/or installation instructions if necessary.
 
 
+## Original icon
+
+Sometimes the application will already have an icon. Provide the link where the original icon can be found.
+I prefer them to be in SVG. A png is a last resort.
+
+
 
 ## Screenshots
 
