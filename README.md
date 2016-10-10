@@ -1,22 +1,22 @@
 # Sardi Icon Theme
 
-# Missing Icons & Request Icons
+## Missing Icons & Request Icons
 
 Scroll down to bottom 
 
-# Looking to download the icons
+## Looking to download the icons
 
 You can download the icons from Sourceforge. A bug in github prevents me to host them here.
 Too many icons.
 
 https://sourceforge.net/projects/sardi/
 
-# Want to know what changed between versions
+## Want to know what changed between versions
 
 Check the changelog in the Sardi folder.
 
 
-# Github will be used to : 
+## Github will be used to : 
 
 	News will be updated here.
 
@@ -27,12 +27,12 @@ Check the changelog in the Sardi folder.
 	Requetst for new icons can be posted here. (scroll to bottom)
 
 
-# Need to get into contact with me
+## Need to get into contact with me
 
 	https://plus.google.com/u/0/+ErikDubois
 
 
-# Do you want more screenshots, information or tutorials
+## Do you want more screenshots, information or tutorials
 
 Follow the Sardi collection on google+.
 
@@ -41,7 +41,7 @@ https://plus.google.com/u/0/collection/YFP-LB
 Checkout articles and tutorials at http://www.erikdubois.be
 
 
-# Some of your icons will never change whatever Icon theme you choose
+## Some of your icons will never change whatever Icon theme you choose
 
 Scroll down to HOW TO FIX HARDCODED ICONS
 
