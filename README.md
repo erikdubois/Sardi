@@ -863,7 +863,7 @@ Install screenfetch to give me information of your distro and Desktop Environmen
 
 	sudo apt install screenfetch
 
-Copy/paste the code you will receive 
+Copy/paste the code you will receive.
 
 ## Icon name 
 
@@ -892,7 +892,7 @@ Add screenshots of the missing icon and the instances where it's displayed like:
 
 
 
-REMARK : Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use Hardcoded Icon Fixer to resolve this problem as explained above.
+REMARK : Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you can use Hardcoded Icon Fixer to resolve this problem as explained above.
 
 
 # Credits
