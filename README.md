@@ -852,7 +852,7 @@ Open a terminal there and paste this code in the terminal
 ---------------------------------------------
 
 
-# Missing Icons & Request Icons & Issues with current icons
+# Request Icons & Issues with current icons
 
 
 When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster and efficiently:
