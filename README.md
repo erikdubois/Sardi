@@ -438,7 +438,7 @@ If you do find an icon that will never change, file it yourself at https://githu
 
 
 
-# T I P 
+### T I P 
 
 If for some reason you want to revert back to the situation before you ran the hardcode-fixer you can do so.
 
