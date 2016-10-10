@@ -882,7 +882,9 @@ Simply open these .desktop files with any text editor or sublime-text and copy a
 
 to your issue or request.
 
-Add a description of the software and where to download it.
+## General info
+
+Add a description of the software and a link where to download it and/or installation instructions if necessary.
 
 
 
