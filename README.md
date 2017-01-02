@@ -52,6 +52,23 @@ Scroll down to HOW TO FIX HARDCODED ICONS
 # Latest news
 <hr>
 
+#2017 01 01 
+
+Sardi version 9 has been released.
+
+19 icon sets as core and 34 icon sets as the result of your scripting called Sardi Extra.
+You have 6 different looks for your application icons and 10 kinds of folders you can use in your file manager.
+There are scripts to change the application icons and there are scripts to change the folder icons and there are scripts to change everything.
+
+The Sardi icons can be found on Sourceforge
+
+https://sourceforge.net/projects/sardi/files/
+
+
+The Sardi Extra icons can be found on github
+
+https://github.com/erikdubois/Sardi-Extra
+
 #2016 09 06
 
 Content Playlist of 80+ short movies to make your desktop eye-candy
