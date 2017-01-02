@@ -60,6 +60,19 @@ Sardi version 9 has been released.
 You have 6 different looks for your application icons and 10 kinds of folders you can use in your file manager.
 There are scripts to change the application icons and there are scripts to change the folder icons and there are scripts to change everything.
 
+You can see what Sardi icons look like on your Linux Mint system.
+
+<a target="_blank" href="https://www.youtube.com/watch?v=RJXfhLFhSKM">
+<img style="max-width:100%;" src="http://i.imgur.com/AvQD8BD.jpg">
+</a>
+
+or you can see what Sardi icons look like when you are using the scripts and make your own personal creations.
+
+<a target="_blank" href="https://www.youtube.com/watch?v=EHjCRJ3FdG0">
+<img style="max-width:100%;" src="http://i.imgur.com/VXmuWuW.jpg">
+</a>
+
+
 The Sardi icons can be found on Sourceforge
 
 https://sourceforge.net/projects/sardi/files/
