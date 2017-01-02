@@ -69,6 +69,30 @@ The Sardi Extra icons can be found on github
 
 https://github.com/erikdubois/Sardi-Extra
 
+#2016 12
+
+In the meantime Linux Mint 18.1 is out. Most of these movies still apply to Linux Mint 18.1 as well as to Linux Mint 18.
+
+Content Playlist of more than 100+ short movies to make your desktop eye-candy
+Sardi icon set playing its part therein.
+
+<a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
+<img style="max-width:100%;" src="http://i.imgur.com/pNvEwlr.png">
+</a>
+
+I started a new kind of project named <b>Make it yourself icon theme</b>.
+
+You can check all those articles on this address.
+
+
+http://erikdubois.be/category/sardi-icons/
+
+or
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS4xeU9zECB-VXL8ZtlEOqrY">
+<img style="max-width:100%;" src="http://i.imgur.com/b3Ue18B.png">
+</a>
+
 #2016 09 06
 
 Content Playlist of 80+ short movies to make your desktop eye-candy
