@@ -66,7 +66,7 @@ You can see what Sardi icons look like on your Linux Mint system.
 <img style="max-width:100%;" src="http://i.imgur.com/AvQD8BD.jpg">
 </a>
 
-or you can see what Sardi icons look like when you are using the scripts and make your own personal creations.
+or you can see what Sardi icons look like when you are using the scripts and make your own personal creations. The result of these scripts are named **Sardi Extra**.
 
 <a target="_blank" href="https://www.youtube.com/watch?v=EHjCRJ3FdG0">
 <img style="max-width:100%;" src="http://i.imgur.com/VXmuWuW.jpg">
