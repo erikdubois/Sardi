@@ -9,7 +9,7 @@ Scroll down to bottom
 You can download the icons from Sourceforge. A bug in github prevents me to host them here.
 Too many icons.
 
-https://sourceforge.net/projects/sardi/
+https://sourceforge.net/projects/sardi/files/
 
 ## Want to know what changed between versions
 
