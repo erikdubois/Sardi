@@ -1,7 +1,5 @@
 # Sardi Icon Theme
 
-## Missing Icons & Request Icons
-
 
 # Request Icons & Issues with current icons
 
