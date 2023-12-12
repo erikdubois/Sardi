@@ -88,16 +88,12 @@ Check the changelog in the Sardi folder.
 
 ## Need to get into contact with me
 
-	https://plus.google.com/u/0/+ErikDubois
+	erik.dubois@gmail.com
 
 
 ## Do you want more screenshots, information or tutorials
 
-Follow the Sardi collection on google+.
-
-https://plus.google.com/u/0/collection/YFP-LB
-
-Checkout articles and tutorials at http://www.erikdubois.be
+Checkout articles and tutorials at http://www.erikdubois.online
 
 
 ## Some of your icons will never change whatever Icon theme you choose
