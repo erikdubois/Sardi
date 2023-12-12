@@ -1,5 +1,11 @@
 # Sardi Icon Theme
 
+# you are in the wrong place
+
+# download them from sourceforge
+
+# https://sourceforge.net/projects/sardi/
+
 
 # Request Icons & Issues with current icons
 
