@@ -1,13 +1,14 @@
 # Sardi Icon Theme
 
-# you are in the wrong place
-
-# download them from sourceforge
+# Download the sardi icons from sourceforge
 
 # https://sourceforge.net/projects/sardi/
 
 
-# Request Icons & Issues with current icons
+# Request Icons here on github
+
+
+# Report issues with current icons here on github 
 
 
 When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster and efficiently:
